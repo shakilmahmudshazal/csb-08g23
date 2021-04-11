@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://shakilmahmudshazal.github.io/csb-08g23/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/main.7c16221e.chunk.js",
+    "main.js.map": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/main.7c16221e.chunk.js.map",
+    "runtime-main.js": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/runtime-main.7e75c0dd.js",
+    "runtime-main.js.map": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/runtime-main.7e75c0dd.js.map",
+    "static/js/2.b8257359.chunk.js": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/2.b8257359.chunk.js",
+    "static/js/2.b8257359.chunk.js.map": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/2.b8257359.chunk.js.map",
+    "static/js/3.2456283a.chunk.js": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/3.2456283a.chunk.js",
+    "static/js/3.2456283a.chunk.js.map": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/3.2456283a.chunk.js.map",
+    "index.html": "https://shakilmahmudshazal.github.io/csb-08g23/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://shakilmahmudshazal.github.io/csb-08g23/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b8257359.chunk.js.LICENSE.txt": "https://shakilmahmudshazal.github.io/csb-08g23/static/js/2.b8257359.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://shakilmahmudshazal.github.io/csb-08g23/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e75c0dd.js",
+    "static/js/2.b8257359.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7c16221e.chunk.js"
+  ]
+}
